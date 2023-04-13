@@ -7,3 +7,6 @@ Identified patterns which indicate if a client has difficulty paying their insta
 Understood the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of defaulters which can be utilized for a company's portfolio and risk assessment
 
 **Technology / Applications used : Microsoft Excel, Microsoft PowerPoint, Jupyter Notebook, Python**
+
+Download the dataset from the link below.  
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
